@@ -33,7 +33,6 @@ const resources = {
       minute: "Minutes",
       second: "Seconds",
       product: "Product",
-      price: "Price",
       quantity: "Quantity",
       subtotal: "Subtotal",
       card: "Card",
@@ -113,7 +112,6 @@ const resources = {
       navbar: "نیویگیشن بار",
       language: "زبان",
       currency: "کرنسی",
-      price: "قیمت",
       summerSale:
         "تمام سوئم سوٹ پر گرمیوں کی خصوصی سیل اور مفت ایکسپریس ڈیلیوری - %50 رعایت!",
       home: "گھر",
