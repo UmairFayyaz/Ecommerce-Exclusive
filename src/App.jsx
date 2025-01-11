@@ -6,8 +6,8 @@ import { useTranslation } from "react-i18next";
 import { ConfigProvider } from "antd";
 import themeConfig from "./themeConfig";
 import imageArrow from "./assist/image/arrow-left.svg";
+import Home from "./view/Home";
 
-const Home = lazy(() => import("./view/Home"));
 const AddToCard = lazy(() => import("./view/AddToCard"));
 const Login = lazy(() => import("./view/Login"));
 const Signup = lazy(() => import("./view/Signup"));
