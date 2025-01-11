@@ -1,0 +1,12 @@
+.customHeaderSelect .ant-select-selector {
+  background-color: #000 !important;
+  border: none;
+  color: white;
+}
+.customHeaderSelect .ant-select-arrow {
+  color: white;
+}
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #db4444;
+  border-color: #db4444;
+}
