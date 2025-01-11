@@ -8,7 +8,7 @@ const SidebarsAndContent = () => {
   return (
     <Wrapper className="flex flex-col md:flex-row justify-between gap-2">
       <Sidebar />
-      <div className="pt-[40px] h-full md:max-w-[600px] lg:max-w-[800px] xl:max-w-[1000px]">
+      <div className="pt-[40px] h-full w-full md:max-w-[600px] lg:max-w-[800px] xl:max-w-[1000px]">
         <Carousel
           effect="scrollx"
           className="w-full"
